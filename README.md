@@ -1,4 +1,4 @@
 # stephaniehoughton.com
-my academic website
 
-test
+
+This is code for my academic website.
