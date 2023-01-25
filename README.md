@@ -1,4 +1,4 @@
 # stephaniehoughton.com
 
 
-This is code for my academic website.
+This is the repository for my academic website.
